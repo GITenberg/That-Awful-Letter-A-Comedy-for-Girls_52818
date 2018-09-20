@@ -1,0 +1,25 @@
+_repo: That-Awful-Letter-A-Comedy-for-Girls_52818
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacKenzie, Edna I.
+    gutenberg_agent_id: '46895'
+    url: http://www.gutenberg.org/2009/agents/46895
+description: ''
+gutenberg_issued: '2016-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52818'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Cousins -- Drama'
+- !lcsh 'Young women -- Drama'
+- !lcsh 'Snobs and snobbishness -- Drama'
+- !lcsh 'Comedies'
+- GITenberg
+title: 'That Awful Letter: A Comedy for Girls'
+url: http://www.gutenberg.org/ebooks/52818
